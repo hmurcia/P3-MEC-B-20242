@@ -1,0 +1,2 @@
+@javac GalALit.java
+@pause

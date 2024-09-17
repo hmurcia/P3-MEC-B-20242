@@ -1,0 +1,2 @@
+@javac CurrencyConverter.java
+@pause
